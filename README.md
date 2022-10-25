@@ -8,5 +8,6 @@ And I also love coffee and smoke, if you want to propose a meeting, then you kno
 ![](https://github.com/Apanazar/stuprum/blob/master/abanazar.gif)
 
 Where to find me?:  
-VKontakte - https://vk.com/id569149257  
+VKontakte - [Fa' Sheezy](https://vk.com/abanazar)
 Mail - exgumacia@mail.ru
+Telegram - [@b3_pati3nt](https://t.me/b3_pati3nt)
