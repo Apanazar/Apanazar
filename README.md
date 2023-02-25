@@ -9,4 +9,4 @@ And I also love coffee and smoke, if you want to propose a meeting, then you kno
 
 Where to find me?:  
 Mail - exgumacia@mail.ru  
-Telegram - [@b3_pati3nt](https://t.me/b3_pati3nt)  
+Telegram - [@b3_pati3nt](https://t.me/apanazar)  
