@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **abanazar@inbox.ru**
 
-- 📄 Know about my experiences [resume](https://apanazar.github.io/posts/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/)
+- 📄 Know about my experiences [resume](https://apanazar.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
