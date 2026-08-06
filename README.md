@@ -27,15 +27,25 @@
          |   [__][________________][__]              [__][]|| |
          `----------------------------------------------------'
 
-- 🔭 I’m currently working on [SUR.NETSTALKING](https://t.me/sur_NET)
+- 📫 How to reach me: **abanazar@inbox.ru**
 
-- 📫 How to reach me **abanazar@inbox.ru**
-
-- 📄 Know about my experiences [resume](https://apanazar.github.io/)
+- 📄 Know about my experiences: [resume](https://apanazar.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a> 
+  <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/> 
+  </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a>
+    <a href="https://asm.sourceforge.net/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="asm" width="40" height="40" title="ASM x86"/> 
+    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
@@ -47,15 +57,6 @@
     </a> 
     <a href="https://redis.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-    </a> 
-    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a>
-    <a href="https://asm.sourceforge.net/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="asm" width="40" height="40" title="ASM x86"/> 
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
